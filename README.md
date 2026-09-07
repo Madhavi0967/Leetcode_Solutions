@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0414-third-maximum-number](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
