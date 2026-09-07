@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0867-transpose-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
