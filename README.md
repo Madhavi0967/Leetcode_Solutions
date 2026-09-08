@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1678-goal-parser-interpretation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 ## Bit Manipulation
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0561-array-partition) |
 ## Stack
 |  |
@@ -79,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
