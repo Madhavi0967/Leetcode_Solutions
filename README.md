@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0414-third-maximum-number](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0561-array-partition) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
