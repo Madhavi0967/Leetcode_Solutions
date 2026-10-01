@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
