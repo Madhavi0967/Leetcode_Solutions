@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
