@@ -9,6 +9,7 @@ public:
             }
             numMap[nums[i]] = i;
         }
-        return {}; // Should not reach here as problem states there's always exactly one solution
+        return {}; // Should not reach here as problem states there's always
+                   // exactly one solution
     }
 };
