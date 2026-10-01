@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
