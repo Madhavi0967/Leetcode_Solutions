@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
