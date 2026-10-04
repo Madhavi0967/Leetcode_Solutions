@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
