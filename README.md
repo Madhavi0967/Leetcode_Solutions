@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0454-4sum-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
