@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0763-partition-labels) |
 | [1678-goal-parser-interpretation](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhavi0967/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
